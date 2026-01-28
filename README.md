@@ -2,7 +2,7 @@
 
 :computer: **Ingeniera de Sistemas**
 :book: **Dedicada en constante aprendizaje**
-:eyesglasses: **Analista y especialista QA**
+:eyeglasses: **Analista y especialista QA**
 
 
 ### Vías de Contacto
