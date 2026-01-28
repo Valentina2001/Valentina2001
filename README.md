@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-:computer: **Ingenera de Sistemas**
+:computer: **Ingeniera de Sistemas**
 :book: **Dedicada en constante aprendizaje**
 :eyesglasses: **Analista y especialista QA**
 
