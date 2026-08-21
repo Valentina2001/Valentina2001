@@ -13,6 +13,6 @@ jobs:
     steps:
       - uses: actions/checkout@v5
 
-      - uses: Readme-Workflows/recent-activity@v5
+      - uses: Readme-Workflows/recent-activity@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
