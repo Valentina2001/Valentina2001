@@ -2,7 +2,7 @@ name: Update REAME
 
 on:
   schedule:
-    - cron: "* */12 * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch: 
 
 jobs:
@@ -11,8 +11,8 @@ jobs:
     name: Update Profile README
 
     steps:
-      - uses: actions/checkout@v2.336.0
+      - uses: actions/checkout@v5
 
-      - uses: Readme-Workflows/recent-activity@v2.336.0
+      - uses: Readme-Workflows/recent-activity@v5
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
